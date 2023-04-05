@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HygorCosta
-- 👀 I’m interested in Technology and Engineering.
-- 🌱 I’m currently learning Python and Java.
-- 💞️ I’m looking to collaborate on data science problems.
+- 👀 I’m interested in Technology and Reservoir Engineering.
+- 🌱 I’m currently a Petroleum Engineer at PETROBRAS.
+- 💞️ I’m looking to collaborate on data science problems, including multiscale and uncertainty analysis for reservoir recovery optmization and management.
 - 📫 How to reach me: hygorvcosta@gmail.com
 
 <!---
